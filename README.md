@@ -131,7 +131,9 @@ int main() {
 }
 ```
 # OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/041e5a66-9c54-446f-b88d-4561e085d95a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9f0fa67-4ad9-4948-96ec-a17cbba56e72" />
+
 
 # RESULT
 Thus, implementation of rail fence is executed successfully.
